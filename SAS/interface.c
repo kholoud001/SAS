@@ -49,8 +49,7 @@ int main(){
         //function 
         break;
         case 7: printf("\n Vous avez choisi de retourner au  menu principal \n");
-        //function 
-        break;
+         exit(0);
     }
     }
     
